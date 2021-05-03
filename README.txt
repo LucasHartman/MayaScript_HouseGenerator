@@ -1,4 +1,5 @@
 Execute this code:
+0. Install numpy for Python 2.7 insde Maya
 1. Open Maya
 2. Go to: Top Menu > Windows > Gneral Editors > Script Editor
 3. Create a Python Tab
